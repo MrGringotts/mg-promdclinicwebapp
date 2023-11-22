@@ -1,0 +1,22 @@
+Patient
+Done -Registration
+Done -The system allows the patients to scheduled their appointment to the doctors
+Done -The system will confirm the scheduled patient.
+Done -The system allows the patient to see doctor's schedule and status
+
+
+Secretary
+- The system enables to cancel patients scheduled
+
+Admin
+
+-The system allows the administrator to manage the system
+-The system enables to update and delete the said appointment and scheduled
+
+
+System
+
+-limit the patient to 2o patient per day 
+
+ADD/Edit patient
+ADD/Edit user
